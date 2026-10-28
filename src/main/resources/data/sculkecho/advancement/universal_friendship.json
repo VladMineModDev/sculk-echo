@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "id": "sculkecho:sculk_egg"
+    },
+    "title": {
+      "translate": "advancement.sculkecho.universal_friendship.title"
+    },
+    "description": {
+      "translate": "advancement.sculkecho.universal_friendship.desc"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "minecraft:adventure/root",
+  "criteria": {
+    "trade_with_sculk": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

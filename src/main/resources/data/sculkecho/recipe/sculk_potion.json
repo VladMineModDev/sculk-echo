@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "minecraft:splash_potion",
+    "minecraft:echo_shard"
+  ],
+  "result": {
+    "id": "sculkecho:sculk_potion",
+    "count": 1
+  }
+}

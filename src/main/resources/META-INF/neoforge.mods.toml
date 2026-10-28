@@ -1,0 +1,25 @@
+modLoader="javafml"
+loaderVersion="[4,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="sculkecho"
+version="1.0.1"
+displayName="Sculk Echo"
+logoFile="logo.png"
+authors="Vlad"
+description='''Sound becomes sight. Echolocation, infection, the Shadow in Ancient Cities and the Warden's stolen power.'''
+
+[[dependencies.sculkecho]]
+modId="neoforge"
+type="required"
+versionRange="[21.1.0,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.sculkecho]]
+modId="minecraft"
+type="required"
+versionRange="[1.21.1,1.22)"
+ordering="NONE"
+side="BOTH"

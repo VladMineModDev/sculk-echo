@@ -1,0 +1,15 @@
+{
+  "type": "sculkecho:add_reflector_blueprint",
+  "conditions": [
+    {
+      "condition": "minecraft:alternative",
+      "terms": [
+        { "condition": "neoforge:loot_table_id", "loot_table_id": "minecraft:chests/ancient_city" },
+        { "condition": "neoforge:loot_table_id", "loot_table_id": "minecraft:chests/ancient_city_ice_box" },
+        { "condition": "neoforge:loot_table_id", "loot_table_id": "minecraft:chests/trial_chambers/reward" },
+        { "condition": "neoforge:loot_table_id", "loot_table_id": "minecraft:chests/woodland_mansion" },
+        { "condition": "neoforge:loot_table_id", "loot_table_id": "minecraft:chests/buried_treasure" }
+      ]
+    }
+  ]
+}
