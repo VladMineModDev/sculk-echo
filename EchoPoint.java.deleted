@@ -1,7 +1,0 @@
-package com.example.sculkecho.common; // Укажите ваш пакет
-
-import net.minecraft.world.phys.Vec3;
-
-// Record - это удобный способ создать класс для хранения данных в Java 16+
-public record EchoPoint(Vec3 position, long timestamp) {
-}
