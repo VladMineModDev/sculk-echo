@@ -19,3 +19,10 @@ crash-reports/
 # OS
 .DS_Store
 Thumbs.db
+
+# Qwen MCP
+.qwen-presence.json
+
+# Deleted/temp files
+*.deleted
+TEMPLATE_LICENSE.txt
