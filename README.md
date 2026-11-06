@@ -7,7 +7,7 @@
 [![Modrinth](https://img.shields.io/modrinth/dt/sculk-echo?color=1bd96a&label=Modrinth%20downloads)](https://modrinth.com/mod/sculk-echo)
 [![MC Version](https://img.shields.io/badge/Minecraft-1.21.1-orange)](https://modrinth.com/mod/sculk-echo)
 [![Loader](https://img.shields.io/badge/Loader-NeoForge-black)](https://neoforged.net)
-[![Discord](https://img.shields.io/badge/Discord-Join-5865F2?logo=discord)]((https://discord.gg/ay3Sf7puV)
+[![Discord](https://img.shields.io/badge/Discord-Join-5865F2?logo=discord)]((https://discord.gg/ay3Sf7puV))
 [![License](https://img.shields.io/github/license/VladMineModDev/sculk-echo)](LICENSE)
 
 Echolocation survival-horror progression mod: a sonar pulse that paints the world
